@@ -4,3 +4,13 @@
 * HTTP Router
 * CRUD Operations
 * Mongodb Supported driver with Golang
+
+### Dependencies
+* go get -u github.com/gin-gonic/gin
+* go get go.mongodb.org/mongo-driver/mongo
+
+## Build
+  go build
+
+## Run
+  go run main.go
