@@ -12,6 +12,10 @@
 ### Operations
 * Creating and Instering a Person Information into Database
 ![Create and Insert Person Info](/images/Create.png)
+* Fetching Person Info API
+![ALL DATA of Person API](/images/Allpersons.png)
+* Search Person Information By its name
+![Search Person name](/images/searchpersonbyname.png)
 
 ### Build
   go build
