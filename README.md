@@ -11,7 +11,7 @@
 
 ### Operations
 * Creating and Instering a Person Information into Database
-![Create and Insert Person Info](./Images/Create.png)
+![Create and Insert Person Info](/Images/Create.png)
 
 ### Build
   go build
