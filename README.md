@@ -9,7 +9,11 @@
 * go get -u github.com/gin-gonic/gin
 * go get go.mongodb.org/mongo-driver/mongo
 
-## Build
+### Operations
+* Creating and Instering a Person Information into Database
+![Create and Insert Person Info](./Images/Create.png)
+
+### Build
   go build
 
 ## Run
